@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-4": {
-            "J42\\LaravelFirebase\\": "src/j42/"
+            "J42\\LaravelFirebase\\": "src/j42/LaravelFirebase"
         }
     }
 }
